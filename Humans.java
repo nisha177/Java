@@ -17,6 +17,7 @@ public class Humans {
 
         Humans h2=new Humans();
         Humans h3=new Humans();
+
         System.out.println(planet);
 
     }
