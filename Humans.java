@@ -30,3 +30,9 @@ public class Humans {
         return flag;
     }
 }
+
+/*
+* Instance variables
+* Static variables
+* Local variables
+* */
